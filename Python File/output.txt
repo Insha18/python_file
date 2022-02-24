@@ -1,0 +1,21 @@
+and the activities are represented by mathematical functions that interrelate The 
+variable 
+A second distinction will be between stelic models and dynamic modern 
+models can only show the values that system attributes take when the system is in 
+balance. Dynamic models, on the other hand, follow the changes over time that 
+result from the system activities. 
+In the case mathematical models, a third distinction is the technique by which 
+the model is solved, that is, actual values are assigned to system attributes. A 
+distinction is made between analytical and numerical methods. Applying analytical 
+techniques means using the deductive reasoning or mathematical theory to solve ak 
+model. ln practice, only certain forms of equations can be solved. Using analytical 
+techniques therefore, is a matter of Ending the model that can be solved and best 
+Qts the system being studied. For example, linear differential equations can be 
+solved, Knowing this, an engineer who restricts the description of a system to that 
+form will derive a model that can be solved analytically. 
+Numerical methods involve applying computational procedure to solve 
+equations. To be strictly accurate, any assignment of numerical values that uses 
+mathematical tables involves numerical methods, since tables are derived number. 
+willy. The distinction being drawn here is that analytical methods produce soul. 
+wens in tractable form, meaning a form where values can be assigned from available 
+ugh Making use of an analytical solution may, in fact, require a considerable 
